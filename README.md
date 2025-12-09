@@ -84,13 +84,4 @@ Excel / CSV datasets
 
 SQL for data preprocessing (where applicable)
 
-📁 Repository Structure
-powerbi-projects/
-│
-├── Ecommerce Sales Dashboard.pbix
-├── Retail_Store_Performance.pbix
-├── Bank_Loan_Analysis.pbix
-├── HR_Analytics.pbix
-├── Sales_Forecasting.pbix
-│
-└── README.md
+
